@@ -9,3 +9,5 @@ GitHub
 Your teacher's online portal.
 
 You upload your notebook so the teacher can see it and your work is safely stored.
+
+in devops
