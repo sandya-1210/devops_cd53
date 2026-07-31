@@ -1,0 +1,4 @@
+Git = "I save and track every version of my project on my computer."
+GitHub = "I upload my Git project to the cloud so it's backed up and I can collaborate with others."
+
+Since you're learning GitHub for your placement prediction project, I can also explain the complete Git workflow (git init → git add → git commit → git branch → git remote → git push → git pull → git clone) with diagrams and examples. That will show exactly what happens behind each command and why it's needed.
